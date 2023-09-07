@@ -1,0 +1,17 @@
+1. add class (use post route) = localhost:4000/api/class/add
+
+2. add teacher (use post route) = localhost:4000/api/teacher/add
+
+3. add student (use post route) = localhost:4000/api/student/add
+
+4. get class Data (use get route) = localhost:4000/api/class/data
+
+5. get student Data (use get route) = localhost:4000/api/student/data
+
+6. get teacher Data (use get route) = localhost:4000/api/teacher/data
+
+7. delete teacher data (use delete route and pass \_id on params) = localhost:4000/api/teacher/delete/:id
+
+8. delete student data (use delete route and pass \_id on params) = localhost:4000/api/student/delete/:id
+
+9. delete class data (use delete route and pass \_id on params) = localhost:4000/api/class/delete/:id
